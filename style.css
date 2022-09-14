@@ -1,0 +1,15 @@
+.jumbotron{
+    background-image: url("file:///C:/Users/Chadwick.Joyner/Downloads/D32F97C0-AD16-4D29-ADBB-BB6E4E29F60B.jpeg");
+    color: white; text-align: center;
+    width: auto
+}
+.container{
+    background-color: black;
+}
+h2{
+    font-size: 48px;
+}
+p{
+    font-size: 25px; color: purple;
+}
+
