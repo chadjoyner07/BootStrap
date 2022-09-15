@@ -1,15 +1,30 @@
-.jumbotron{
-    background-image: url("file:///C:/Users/Chadwick.Joyner/Downloads/D32F97C0-AD16-4D29-ADBB-BB6E4E29F60B.jpeg");
-    color: white; text-align: center;
-    width: auto
+table{
+    background-color: purple;
 }
-.container{
-    background-color: black;
+tr{
+    color: white;
 }
-h2{
-    font-size: 48px;
+th{
+    color: white;
 }
-p{
-    font-size: 25px; color: purple;
+.index{
+    background-color: blue;
 }
-
+h1{
+    color: white; text-align: center; font-size: 48px;
+} 
+.page1{
+    background-color: brown;
+}
+.page2{
+    background-color: blueviolet;
+}
+.page3{
+    background-color: aqua;
+}
+.page4{
+    background-color: red;
+}
+.page5{
+    background-color: darkgoldenrod;
+}
